@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.177,=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.394,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\UFunkcjeMain.dfm=C:\Users\zdzichs\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.330,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\UFunkcjeMain.dfm=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.388,=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.667,=C:\Users\zdzichs\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.133,C:\Users\tomasz\Downloads\OneDrive_3_6.12.2021\funkcje\funkcje\DemoFunkcje.dproj=C:\Users\tomasz\Documents\Embarcadero\Studio\Projects\Funkcje zadanie - 1\DemoFunkcje.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.346,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\Unit1.pas=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\UFunkcjeMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.961,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\UFunkcjeMain.pas=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.893,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\DemoFunkcje.dproj=C:\Users\zdzichs\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.346,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\Unit1.dfm=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\UFunkcjeMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.394,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\UFunkcjeMain.pas=C:\Users\zdzichs\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.961,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\UFunkcjeMain.dfm=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.277,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\UFunkcjeMain.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.330,D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\UFunkcjeMain.pas=D:\zsdir\zsdane\programs\DelphiSydney\akademia\kod\funkcje\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
